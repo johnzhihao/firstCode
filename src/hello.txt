@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello guys......
+=======
+hello......
+hey guy
+>>>>>>> branch 'master' of https://github.com/johnzhihao/firstCode.git
